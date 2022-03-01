@@ -5,7 +5,7 @@ console.log(5 % 2); console.log(5 % 4);
 console.log('I\'M MARY POPPINS, Y\'ALL!');
 console.log("Hawk" + "eye");
 console.log("Amy Strunk".length);
-console.log("Avengers:Endgame"[15])
+console.log("Avengers: Endgame"[16])
 
 // bonus 1
 console.log("\\");
@@ -23,7 +23,7 @@ console.log("DOCTOR STRANGE"[13]); // E
 console.log("THOR"[3]); // R
 console.log("STAR-LORD"[0]); // S
 // bonus 5
-var m=25;
-var c=4;
-var u = m + c;
+let m=25;
+let c=4;
+let u = m + c;
 console.log(u)
